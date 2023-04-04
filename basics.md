@@ -36,3 +36,4 @@ To run a Bash script from the command line, you need to make sure the file has e
 In addition to setting executable permissions, you can also set permissions for reading, writing, and executing files in Bash. The chmod command allows you to modify file permissions for the owner, group, and others. The umask command can also be used to set default permissions for new files.
 
 Congratulations, you have now learned the basics of syntax and commands in Bash! In the next lesson, we will cover variables and operators in Bash.
+
