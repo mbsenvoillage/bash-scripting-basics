@@ -38,18 +38,18 @@ This course is designed for beginners who want to learn the basics of bash scrip
 
 ### 5. Command Line Arguments and Input/Output
 
-Reading input from the command line
-Using command-line arguments in scripts
-Redirecting input and output
-Using pipes to connect commands
-Basic file operations: reading, writing, appending
+- Reading input from the command line
+- Using command-line arguments in scripts
+- Redirecting input and output
+- Using pipes to connect commands
+- Basic file operations: reading, writing, appending
 
 ### 6. Putting It All Together
 
-Creating a simple Bash script from scratch
-Best practices for structuring and organizing scripts
-Debugging scripts with error messages
-Building on your skills with more advanced scripting concepts
+- Creating a simple Bash script from scratch
+- Best practices for structuring and organizing scripts
+- Debugging scripts with error messages
+- Building on your skills with more advanced scripting concepts
 
 ## Assignments
 
