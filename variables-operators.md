@@ -109,3 +109,21 @@ Here are some additional tips for naming variables in Bash:
 - Be consistent in your naming conventions. This will make it easier to read and understand your code.
 
 By following these best practices, you can make your Bash scripts more readable and easier to maintain. In the next lesson, we will cover loops and conditional statements in Bash.
+
+## Easy Assignments
+
+1. Write a Bash script that declares a string variable called greeting and assigns it the value "Hello, world!". Print the value of the variable to the console.
+2. Write a Bash script that declares two integer variables called x and y and assigns them the values 5 and 10, respectively. Calculate the sum of the variables and print the result to the console.
+3. Write a Bash script that declares an array variable called fruits and assigns it the values "apple", "banana", and "orange". Print the second element of the array to the console.
+
+## Medium Assignments
+
+1. Write a Bash script that prompts the user to enter their name and stores the input in a variable called name. Use the echo command to print a personalized greeting that includes the user's name.
+2. Write a Bash script that calculates the area of a rectangle based on the values of two integer variables length and width. Store the result in a variable called area and print the value to the console.
+3. Write a Bash script that declares an array variable called numbers and assigns it the values 2, 4, 6, and 8. Use a loop to calculate the sum of the elements in the array and store the result in a variable called sum. Print the value of sum to the console.
+
+## Hard Assignments
+
+1. Write a Bash script that prompts the user to enter three integer values and stores them in variables a, b, and c. Use conditional statements to determine whether the sum of any two of the values is equal to the third value. If so, print a message to the console indicating which values satisfy this condition.
+2. Write a Bash script that declares an array variable called names and assigns it the values "Alice", "Bob", "Charlie", and "Dave". Use a loop to prompt the user to enter their name. If the user's name is found in the names array, print a message to the console indicating that the user is on the list. If the user's name is not found, print a message indicating that the user is not on the list.
+3. Write a Bash script that declares an array variable called grades and assigns it the values 75, 85, 92, and 68. Use a loop to calculate the average of the elements in the array and store the result in a variable called average. Then use conditional statements to determine the letter grade corresponding to the average, according to the following scale: 90-100 = A, 80-89 = B, 70-79 = C, 60-69 = D, below 60 = F. Print the letter grade to the console.
